@@ -5,10 +5,11 @@ I'm a software developer and project manager with 5 five years of coding experie
 ## Generally Me
 
 I'm a totally remote worker from California. My main interests are:
-
+<!--
 * 🎓 Teaching applied data science, no-code AI, and generative AI.
 * ✍️ Writing regularly on Medium.
 * ✍️ Making videos for YouTube.
+-->
 * ✨ Regularly offsetting computer work by exercising, hiking, fishing, and movement.
 * 🌱 Optimistic about self-optimizing agents, design patterns, and AI in precision health.
 * 🔭 Giving back by sponsoring other developers [FREE CODE], and you can also sponsor me [ME].
