@@ -1,6 +1,6 @@
 # Hi 👋, I'm Thane
 
-I'm a software developer and project with 5 five years of coding experience and over 30 years of project, program, and operations management experience in consulting, defense, finance, small companies and startups. 
+I'm a software developer and project manager with 5 five years of coding experience and over 30 years of project, program, and operations management experience in consulting, defense, finance, and startups. 
 
 ## Generally Me
 
@@ -22,7 +22,7 @@ I'm a totally remote worker from California. My main interests are:
 * 🌀 **NemoClaw** — NVIDIA plugin for secure installation of OpenClaw with OpenShell.
 -->
 * 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
-* ✨ **QuizParty** — 1–6 player quiz game using GenAI to study any topic.
+* ✨ **[QuizParty](https://github.com/see3eye/scholarsPursuit)** — 1–6 player quiz game using GenAI to study any topic.
 * 🧱 **A+ Learning** — AI-enabled educational terminal used to learn any topic.
 
 ## Let's Connect
