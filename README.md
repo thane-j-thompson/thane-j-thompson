@@ -13,7 +13,7 @@ I'm a totally remote worker from California. My main interests are:
 * 🌱 Optimistic about self-optimizing agents, design patterns, and AI in precision health.
 * 🔭 Giving back by sponsoring other developers [FREE CODE], and you can also sponsor me [ME].
 * 💬 Ask me about artificial intelligence, autonomous agents, startups, and biohacking.
-* ☕ Feel free to buy me a coffee [Buy Me Coffee] or [SCHEDULE].
+* ☕ I am happy to chat over coffee real or otherwise [buy me a coffee](https://buymeacoffee.com/thane.j.thompson)
 * 🍜 I am a bad vegetarian [mostly veggies but occasionally meat].
 
 ## Some of my projects I have published or repositories I have been a maintainer for
