@@ -10,10 +10,10 @@ I'm a totally remote worker from California. My main interests are:
 * ✍️ Writing regularly on Medium.
 * ✍️ Making videos for YouTube.
 -->
-* ✨ Regularly offsetting computer work by exercising, hiking, fishing, and movement.
 * 🌱 Optimistic about self-optimizing agents, design patterns, and AI in precision health.
 * 🔭 Giving back by sponsoring other developers [FREE CODE], and you can also sponsor me [ME].
-* 💬 Ask me about artificial intelligence, autonomous agents, startups, and biohacking.
+* ✨ Regularly offsetting computer work by exercising, hiking, fishing, and movement.
+* 💬 Ask me about geopolitics of artificial intelligence, autonomous agents, startups.
 * ☕ I am happy to chat over coffee real or otherwise [buy me a coffee](https://buymeacoffee.com/thane.j.thompson)
 * 🍜 I am a bad vegetarian [mostly veggies but occasionally meat].
 
