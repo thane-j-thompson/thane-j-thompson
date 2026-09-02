@@ -20,8 +20,8 @@ I'm a totally remote worker from California. My main interests are:
 
 <!--
 * 🌀 **NemoClaw** — NVIDIA plugin for secure installation of OpenClaw with OpenShell.
-* 🦞 **OpenClaw** — Personal AI assistant, contributing with CVEs and OTel to make lobsters safe. 
 -->
+* 🦞 **OpenClaw** — Personal AI assistant, contributing minor bug fix. 
 * ✨ **QuizParty** — 1–6 player quiz game using GenAI to study any topic.
 * 🧱 **A+ Learning** — AI-enabled educational terminal used to learn any topic.
 
