@@ -11,11 +11,11 @@ I'm a totally remote worker from California. My main interests are:
 * ✍️ Making videos for YouTube.
 -->
 * 🌱 Optimistic about self-optimizing agents, design patterns, and AI in precision health.
-<!--* 🔭 Giving back by sponsoring other developers [FREE CODE], and you can also sponsor me [ME].-->
 * ✨ Regularly offsetting computer work by exercising, hiking, fishing, and movement.
 * 💬 Ask me about geopolitics of artificial intelligence, autonomous agents, startups.
 * ☕ I am happy to chat over coffee real or otherwise [buy me a coffee](https://buymeacoffee.com/thane.j.thompson)
 * 🍜 I am a bad vegetarian [mostly veggies but occasionally meat].
+<!--* 🔭 Giving back by sponsoring other developers [FREE CODE], and you can also sponsor me [ME].-->
 
 ## Some of my projects I have published or repositories I have been a maintainer for
 
@@ -23,8 +23,9 @@ I'm a totally remote worker from California. My main interests are:
 * 🌀 **NemoClaw** — NVIDIA plugin for secure installation of OpenClaw with OpenShell.
 * 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
 -->
-* ✨ **[QuizParty](https://github.com/see3eye/scholarsPursuit)** — 1–6 player quiz game using GenAI to study any topic.
+* ✨ **[QuizParty](https://scholar-s-pursuit.web.app/)** — 1–6 player quiz game using GenAI to study any topic.
 * 🧱 **A+ Learning** — AI-enabled educational terminal used to learn any topic.
+<!--https://github.com/see3eye/scholarsPursuit-->
 
 ## Let's Connect
 I'm always open to building, contributing, collaborating, and chatting. Feel free to 📫 reach out.
