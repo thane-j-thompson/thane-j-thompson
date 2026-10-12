@@ -11,7 +11,7 @@ I'm a totally remote worker from California. My main interests are:
 * ✍️ Making videos for YouTube.
 -->
 * 🌱 Optimistic about self-optimizing agents, design patterns, and AI in precision health.
-* 🔭 Giving back by sponsoring other developers [FREE CODE], and you can also sponsor me [ME].
+<!--* 🔭 Giving back by sponsoring other developers [FREE CODE], and you can also sponsor me [ME].-->
 * ✨ Regularly offsetting computer work by exercising, hiking, fishing, and movement.
 * 💬 Ask me about geopolitics of artificial intelligence, autonomous agents, startups.
 * ☕ I am happy to chat over coffee real or otherwise [buy me a coffee](https://buymeacoffee.com/thane.j.thompson)
@@ -21,20 +21,21 @@ I'm a totally remote worker from California. My main interests are:
 
 <!--
 * 🌀 **NemoClaw** — NVIDIA plugin for secure installation of OpenClaw with OpenShell.
--->
 * 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
+-->
 * ✨ **[QuizParty](https://github.com/see3eye/scholarsPursuit)** — 1–6 player quiz game using GenAI to study any topic.
 * 🧱 **A+ Learning** — AI-enabled educational terminal used to learn any topic.
 
 ## Let's Connect
 I'm always open to building, contributing, collaborating, and chatting. Feel free to 📫 reach out.
 
+<!--
 ## Recent Articles, Journal Papers, and Blog Posts
 * EdTech
 * Drone Supply Chain
 * Generative AI and Large Language Models in Language Preservation: Opportunities and Challenges
 
-<!--
+
 **thane-j-thompson/thane-j-thompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
